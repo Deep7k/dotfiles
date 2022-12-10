@@ -1,0 +1,26 @@
+"schemes":[
+  {
+    "background": "#011627",
+    "black": "#1d3b53",
+    "blue": "#6294ff",
+    "brightBlack": "#7c8f8f",
+    "brightBlue": "#82aaff",
+    "brightCyan": "#7fdbca",
+    "brightGreen": "#21c7a8",
+    "brightPurple": "#ae81ff",
+    "brightRed": "#ff5874",
+    "brightWhite": "#d6deeb",
+    "brightYellow": "#ecc48d",
+    "cursorColor": "#9ca1aa",
+    "cyan": "#60dac4",
+    "foreground": "#D6DEEB",
+    "green": "#9cca57",
+    "name": "nightfly",
+    "purple": "#c792ea",
+    "red": "#fc514e",
+    "selectionBackground": "#b2ceee",
+    "white": "#ccd3dc",
+    "yellow": "#ebca45"
+  }
+]
+

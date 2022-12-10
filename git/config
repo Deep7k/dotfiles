@@ -1,0 +1,13 @@
+[user]
+        name = Deepak Nalathwad
+        email = 60418902+Deep7k@users.noreply.github.com
+[core]
+	editor = vim
+	autocrlf = input
+[pager]
+  diff = false
+  log = false
+[diff]
+	tool = vscode
+[difftool "vscode"]
+	cmd = "code --wait --diff $LOCAL $REMOTE"
