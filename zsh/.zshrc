@@ -22,9 +22,10 @@ precmd() {
 }
 
 # Aliases
-alias zconfigrc="gedit ~/.config/zsh/.zshrc"
-alias zhistory="nvim ~/.local/state/zsh/history"
-alias zconfigenv="sudo gedit /etc/zsh/zshenv"
+alias zconfigrc='gedit ~/.config/zsh/.zshrc'
+alias zhistory='nvim ~/.local/state/zsh/history'
+alias zconfigenv='nvim /etc/zsh/zshenv'
+alias incognito=' unset HISTFILE'
 
 # zstyle history setup
 zstyle ':completion:*' menu select
